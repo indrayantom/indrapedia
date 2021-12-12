@@ -351,7 +351,7 @@ section {
 .facts .count-box i {
   display: block;
   font-size: 44px;
-  color: #149ddd;
+  color: #0f658d;
   float: left;
 }
 
@@ -387,7 +387,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akills
+# Skills
 --------------------------------------------------------------*/
 .skills .progress {
   height: 50px;
@@ -402,7 +402,7 @@ section {
   display: block;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: #050d18;
+  color: #173d74;
 }
 
 .skills .progress .skill .val {
@@ -494,7 +494,7 @@ section {
   margin: 0 auto 35px auto;
   list-style: none;
   text-align: center;
-  background: #fff;
+  background: #dbeef1;
   border-radius: 50px;
   padding: 2px 15px;
 }
@@ -513,7 +513,7 @@ section {
 }
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  color: #149ddd;
+  color: #0663f0fb;
 }
 
 .portfolio #portfolio-flters li:last-child {
